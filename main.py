@@ -28,3 +28,14 @@ match operator:
     print("The answer is ", subtraction(numOne, numTwo))
   case '-':
     print("The answer is ", subtraction(numOne, numTwo))
+  case 'multiply':
+    print("The answer is ", multiply(numOne, numTwo))
+  case '*':
+    print("The answer is ", multiply(numOne, numTwo))
+  case 'divide':
+    print("The answer is ", divide(numOne, numTwo))
+  case '/':
+    print("The answer is ", divide(numOne, numTwo))
+  case 'division':
+    print("The answer is ", divide(numOne, numTwo))
+    
